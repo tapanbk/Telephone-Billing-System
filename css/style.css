@@ -1,0 +1,47 @@
+a:hover
+{
+	
+	color:#ffffff;
+	text-decoration:none;
+	font-size:16px;
+	background-color:#2F4F4F;
+	border:2px solid black;
+}
+
+a:link
+{
+
+	text-decoration:none;
+	background-color:808080;
+	margin:0px 24px 0px 32px;
+}
+
+
+h3
+{
+
+	font-size:30px;
+	color:#b222222;
+	text-align:center;
+}
+
+body
+{
+    width:auto;
+
+	background-color:#696968;
+}
+
+
+div
+{
+
+	margin:0px 0px 0px 0px;
+	background-color:#D3D3D3;
+}
+
+table
+{
+
+	border:2px solid black;
+}
